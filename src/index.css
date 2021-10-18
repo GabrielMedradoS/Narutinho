@@ -1,13 +1,40 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  height: 100vh;
+  width: 100vw;
+  padding: 5px 40px;
+
+  background: url(assets/images/Vila\ da\ folha.jpeg) no-repeat  left center/cover;
+}
+
+.narutoImg {
+  max-width: 50vh;
+  align-self: flex-end;
+}
+
+.boxQuote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote {
+  font-size: 2em;
+}
+
+.speaker {
+  text-align: right;
+  margin-bottom: 50px;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
