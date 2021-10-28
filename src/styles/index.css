@@ -6,14 +6,24 @@
 
 body {
   height: 100vh;
-  width: 100vw;
   padding: 5px 40px;
 
   background: url(assets/images/Vila\ da\ folha.jpeg) no-repeat left center/cover;
+
+  font-family: 'New Tegomin', serif;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  bottom: 0;
 }
 
 .narutoImg {
-  max-width: 50vh; /* full max-height: 50vh; */
+  /* full max-height: 50vh; */
+  max-width: 50vw;
   align-self: flex-end;
 }
 
@@ -29,12 +39,5 @@ body {
 }
 
 .speaker {
-  text-align: right;
   margin-bottom: 50px;
-}
-
-button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }

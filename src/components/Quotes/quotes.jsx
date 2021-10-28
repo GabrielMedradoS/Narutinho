@@ -1,14 +1,16 @@
 /* eslint-disable no-unreachable */
 import React from 'react';
 import P from 'prop-types';
-import { Button } from '../Button/button.jsx';
+import '../Button/button.css';
 
-export const Quotes = ({ quote, speaker, onUpdate }) => {
+export const Quotes = ({ quote, speaker, onUpdate = () => {} }) => {
   return (
     <div className="boxQuote">
       <p className="quote">{quote}</p>
-      <p className="speaker">- {speaker}</p>
-      <Button onClick={onUpdate}>Quote No Jutsu</Button>
+      <p className="speaker">-{speaker}</p>
+      <button onClick={onUpdate} className="button">
+        Quote No Jutsu
+      </button>
     </div>
   );
 };
