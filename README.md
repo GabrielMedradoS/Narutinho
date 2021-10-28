@@ -1,5 +1,5 @@
 ## Narutinho
-  <img src="./github/NarutoQuote" alt="naruto" width="100%">
+  <img src=".github/NarutoQuote.png" alt="naruto" width="100%">
   
 ### 💻 Projeto
 Site gerador de frases do narutinho
