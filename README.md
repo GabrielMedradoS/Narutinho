@@ -1,12 +1,25 @@
 ## Narutinho
-### Layout 🚧
-  <img src=".github/NarutoQuote.png" alt="naruto" width="100%">
+
+<p align="center">
+    <img alt="Platform" src="https://img.shields.io/static/v1?label=Platform&message=PC&color=dc872c&labelColor=white">
+    <a href="">
+        <img src="https://img.shields.io/badge/NarutoQuote-DIO-dc872c?&labelColor=white"></img>
+    </a>
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/GabrielMedradoS/Narutinho?color=dc872c&labelColor=white">
+    <a href="https://github.com/GabrielMedradoS/Restaurants-Finder/blob/master/License">
+        <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=dc872c&labelColor=white">
+    </a>
+</p>
+
   <p align="center">
     <a href="#projeto-">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#tecnologias-">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#layout-">Layout</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
+
+### Layout 🚧
+  <img src=".github/NarutoQuote.png" alt="naruto" width="100%">
   
 ## Projeto 💻
 Site gerador de frases do narutinho
