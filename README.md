@@ -19,7 +19,7 @@
 </p>
 
 ### Layout 🚧
-  <img src=".github/NarutoQuote.png" alt="naruto" width="100%">
+  <img src=".github/github image.png" alt="naruto" width="100%">
   
 ## Projeto 💻
 Site gerador de frases do narutinho
